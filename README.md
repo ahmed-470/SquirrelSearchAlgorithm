@@ -11,7 +11,7 @@ This squirrel search optimizer imitates the dynamic foraging behaviour of southe
 
 # Architecture
 
-
+![squirrel search](https://github.com/khajaraouf/SquirrelSearchAlgorithm/assets/70451209/0ac4a818-b9cf-4c88-9199-0dbfd3dbf8f0)
 
 # Reference Papers
 
